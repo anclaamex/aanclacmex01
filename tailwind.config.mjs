@@ -13,6 +13,7 @@ export default {
       black: "#000000",
       white: "#ffffff",
       gray: colors.gray,
+      blue: "#2B6A9B",
       indigo: colors.indigo,
       neutral: colors.neutral,  // Used mainly for text color
       yellow: {
