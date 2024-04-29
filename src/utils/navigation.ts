@@ -15,15 +15,15 @@ const navBarLinks = [
 // An array of links for footer
 const footerLinks = [
   {
-    section: "Ecosystem",
+    section: "",
     links: [
-      { name: "Documentation", url: "/welcome-to-docs/" },
-      { name: "Tools & Equipment", url: "/products" },
-      { name: "Construction Services", url: "/services" },
+      // { name: "Documentation", url: "/welcome-to-docs/" },
+      // { name: "Tools & Equipment", url: "/products" },
+      // { name: "Construction Services", url: "/services" },
     ],
   },
   {
-    section: "Company",
+    section: "",
     links: [
       { name: "About us", url: "#" },
       { name: "Blog", url: "/blog" },
