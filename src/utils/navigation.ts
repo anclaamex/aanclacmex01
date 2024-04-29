@@ -25,10 +25,10 @@ const footerLinks = [
   {
     section: "",
     links: [
-      { name: "About us", url: "#" },
-      { name: "Blog", url: "/blog" },
-      { name: "Careers", url: "#" },
-      { name: "Customers", url: "#" },
+      // { name: "About us", url: "#" },
+      // { name: "Blog", url: "/blog" },
+      // { name: "Careers", url: "#" },
+      // { name: "Customers", url: "#" },
     ],
   },
 ];
