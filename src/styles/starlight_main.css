@@ -20,7 +20,7 @@
 /* Light mode colors. */
 :root[data-theme='light'] {
     --primary-button-hover: #ff801f;
-    --backdrop-color: #f6f6f699;
+    --backdrop-color: #ffffff99;
     --sl-color-accent: #f76b15;
     --sl-color-accent-high: #562800;
     --sl-color-accent-low: #ffa057;
