@@ -8,9 +8,9 @@
 // ];
 const navBarLinks = [
   { name: "Inicio", url: "/" },
-  { name: "Servicios", url: "/services" },
-  { name: "Blog", url: "/blog" },
-  { name: "Contacto", url: "/contact" },
+  { name: "nosotros", url: "/services" },
+  // { name: "Blog", url: "/blog" },
+  // { name: "Contacto", url: "/contact" },
 ];
 // An array of links for footer
 const footerLinks = [
