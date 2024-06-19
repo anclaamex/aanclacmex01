@@ -9,7 +9,7 @@
 const navBarLinks = [
   { name: "Inicio", url: "/" },
   { name: "nosotros", url: "/services" },
-  //{ name: "Blog", url: "/blog" },
+  { name: "calados", url: "/calados" },
   { name: "tarifas", url: "/contact" },
 ];
 // An array of links for footer
