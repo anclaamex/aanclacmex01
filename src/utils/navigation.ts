@@ -25,7 +25,7 @@ const footerLinks = [
   {
     section: "",
     links: [
-      // { name: "About us", url: "#" },
+      //{ name: "aanclac@aanclac.com", url: "aanclac@aanclac.com" },
       // { name: "Blog", url: "/blog" },
       // { name: "Careers", url: "#" },
       // { name: "Customers", url: "#" },
