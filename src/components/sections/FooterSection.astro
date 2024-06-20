@@ -29,12 +29,14 @@ const crafted: string =
     <div class="grid grid-cols-2 gap-6 md:grid-cols-4 lg:grid-cols-5">
       <div class="col-span-full lg:col-span-1">
         <!-- Brand Logo -->
-        <BrandLogo class="h-auto w-32" />
+        <!-- <BrandLogo class="h-auto w-32" /> -->
       </div>
+      
       <!-- An array of links for Product and Company sections -->
       {
         strings.footerLinks.map((section) => (
           <div class="col-span-1">
+            
             <h3 class="font-bold text-neutral-800 dark:text-neutral-200">
               {section.section}
             </h3>
@@ -58,8 +60,9 @@ const crafted: string =
           </div>
         ))
       }
-
+ 
       <div class="col-span-2">
+        
         <!-- <h3 class="font-bold text-neutral-800 dark:text-neutral-200">
           {sectionThreeTitle}
         </h3> -->
